@@ -1,0 +1,11 @@
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.csprojAssemblyReference.cache
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.csproj.CoreCompileInputs.cache
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.AssemblyInfoInputs.cache
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.AssemblyInfo.cs
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.deps.json
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.dll
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/netcoreapp2.2/TriangleTracker.pdb
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.runtimeconfig.json
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/TriangleTracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/netcoreapp2.2/TriangleTracker.runtimeconfig.dev.json
